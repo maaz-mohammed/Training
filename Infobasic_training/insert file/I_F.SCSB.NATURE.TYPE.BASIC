@@ -1,0 +1,19 @@
+* I_F.SCSB.NATURE.TYPE.BASIC Created 09 MAY 23 at 05:12PM by mohammedmaaz/MAAZ
+*      PREFIX[SNTB]
+                    EQU SNTB.RATE.TYPE TO 1,   ScsbNatureTypeBasic_RateType TO 1,
+              SNTB.RATE.VALUE.PERIODIC TO 2,   ScsbNatureTypeBasic_RateValuePeriodic TO 2,
+                 SNTB.RATE.VALUE.BASIC TO 3,   ScsbNatureTypeBasic_RateValueBasic TO 3,
+                 SNTB.RATE.VALUE.FIXED TO 4,   ScsbNatureTypeBasic_RateValueFixed TO 4,
+              SNTB.ALLOW.BROKER.UPDATE TO 5,   ScsbNatureTypeBasic_AllowBrokerUpdate TO 5,
+                SNTB.ALLOW.FIDU.UPDATE TO 6,   ScsbNatureTypeBasic_AllowFiduUpdate TO 6,
+                  SNTB.PRODUCT.ALLOWED TO 7,   ScsbNatureTypeBasic_ProductAllowed TO 7,
+                         SNTB.CURRENCY TO 8,   ScsbNatureTypeBasic_Currency TO 8,
+                    SNTB.RECORD.STATUS TO 9,   ScsbNatureTypeBasic_RecordStatus TO 9,
+                          SNTB.CURR.NO TO 10,  ScsbNatureTypeBasic_CurrNo TO 10,
+                         SNTB.INPUTTER TO 11,  ScsbNatureTypeBasic_Inputter TO 11,
+                        SNTB.DATE.TIME TO 12,  ScsbNatureTypeBasic_DateTime TO 12,
+                       SNTB.AUTHORISER TO 13,  ScsbNatureTypeBasic_Authoriser TO 13,
+                          SNTB.CO.CODE TO 14,  ScsbNatureTypeBasic_CoCode TO 14,
+                        SNTB.DEPT.CODE TO 15,  ScsbNatureTypeBasic_DeptCode TO 15,
+                     SNTB.AUDITOR.CODE TO 16,  ScsbNatureTypeBasic_AuditorCode TO 16,
+                  SNTB.AUDIT.DATE.TIME TO 17,  ScsbNatureTypeBasic_AuditDateTime TO 17
