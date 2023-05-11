@@ -55,7 +55,7 @@ public class ScsbValidate extends RecordLifecycle {
             if(!(basicRate.getValue().isEmpty() && periodicRate.getValue().isEmpty()))
             {
                 rateType.setError(errormssg1);
-                if(!(periodicRate.getValue().isEmpty())){
+                if(!(fixedRate.getValue().isEmpty())){
                 fixedRate.setError(errormssg2);
                 }
             }
